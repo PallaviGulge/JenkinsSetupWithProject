@@ -10,7 +10,8 @@ public class HelloTest {
 		{
 			System.out.println("Hello");
 		}
-
+		
+		System.out.println("exection done!");
 
 	}
 
