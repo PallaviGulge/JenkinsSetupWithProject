@@ -11,7 +11,7 @@ public class HelloTest {
 			System.out.println("Hello");
 		}
 		
-		System.out.println("exection done!");
+		System.out.println("execution done!");
 
 	}
 
