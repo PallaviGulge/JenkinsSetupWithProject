@@ -12,6 +12,7 @@ public class HelloTest {
 		}
 		
 		System.out.println("execution done!");
+		System.out.println("Test for git and jenkins integration");
 
 	}
 
